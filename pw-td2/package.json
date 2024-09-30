@@ -1,0 +1,16 @@
+{
+  "name": "pw-td2",
+  "version": "1.1.29",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bun run --watch src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "uuid": "^10.0.0",
+    "validator": "^13.12.0"
+  }
+}
