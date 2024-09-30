@@ -1,0 +1,11 @@
+{
+    "name": "pw-td1",
+    "version": "1.1.29",
+    "scripts": {
+        "start": "bun run src/index.ts",
+        "dev": "bun run --watch src/index.ts"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}
