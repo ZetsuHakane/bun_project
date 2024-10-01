@@ -24,5 +24,7 @@ describe('example', () => {
 
 # DOCUMENTATION :
 https://www.typescriptlang.org/docs/handbook/2/classes.html
+
 https://www.typescriptlang.org/docs/handbook/2/modules.html
+
 https://stackoverflow.com/questions/67669851/typescript-export-functions
